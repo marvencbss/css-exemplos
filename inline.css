@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo de CSS Inline</title>
+</head>
+  <p style="color: red">
+    Um parágrafo com texto em vermelho.
+    <a href="." style="color: blue">e um link azul</a>
+  </p>
+
+</html>
