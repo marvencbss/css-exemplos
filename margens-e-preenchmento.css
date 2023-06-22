@@ -14,4 +14,4 @@ texto {
   border-bottom-width: 20px;
   border-color: black;
   ration: overline;
-  ration: line-through;
+  text-decoration: line-through;
